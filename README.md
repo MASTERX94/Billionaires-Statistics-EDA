@@ -1,1 +1,1 @@
-# billionaires-statistics-EDA
+# Billionaires-Statistics-EDA
